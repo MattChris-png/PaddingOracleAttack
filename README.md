@@ -1,3 +1,3 @@
 # PaddingOracleAttack
 
-Attack performed in my network security class.
+Attack performed in my network security class against a vulnerable decryption oracle.
