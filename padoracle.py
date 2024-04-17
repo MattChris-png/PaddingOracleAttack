@@ -5,7 +5,7 @@ import re
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 #type connection information.
-s.connect(("128.186.120.158", 31537))
+#s.connect(("ip", port))
 
 decryption = []
 block_size = 16
